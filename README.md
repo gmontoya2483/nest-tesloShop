@@ -15,4 +15,8 @@
     ```
     docker-compose up -d
     ```
-6. Levantar modo desarrollo: ```yarn start:dev```
+6. Ejecutar el SEED 
+   ```
+   /api/seed
+   ```
+7. Levantar modo desarrollo: ```yarn start:dev```
